@@ -4,7 +4,7 @@ node 14.17.1
 yes to all
 themes: indigo-pink
 include after @import "~@angular/material/prebuilt-themes/indigo-pink.css"; in styles.css
-
+implamenar npm i ngx-toastr@14.0.0 para dar certo
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
 
 ## Development server
